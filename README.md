@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="screenshots/banner.png" alt="NovaTech P&L Dashboard" width="100%"/>
+  <img src="screenshots/banner.png" alt="NovaTech P&L Dashboard"/>
 </p>
 
 <h1 align="center">NovaTech Solutions — P&L Financial Performance Dashboard</h1>
@@ -143,7 +143,7 @@ novatech-pnl-dashboard/
 │   ├── 02_revenue_deep_dive.png
 │   └── 03_expense_budget.png
 └── docs/
-    └── NovaTech_Writeup.docx
+    └── NovaTech_Portfolio_Writeup.docx
 ```
 
 ---
