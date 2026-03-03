@@ -143,7 +143,7 @@ novatech-pnl-dashboard/
 │   ├── 02_revenue_deep_dive.png
 │   └── 03_expense_budget.png
 └── docs/
-    └── NovaTech_Portfolio_Writeup.docx
+    └── NovaTech_Writeup.docx
 ```
 
 ---
