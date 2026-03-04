@@ -20,7 +20,7 @@
 
 ## About This Project
 
-NovaTech Solutions is a mid-market SaaS company. This dashboard replaces that workflow with an interactive, self-service P&L analysis tool designed for the CFO and FP&A team.
+NovaTech Solutions is a mid-market SaaS company. This dashboard helps with an interactive, self-service P&L analysis tool designed for the CFO and FP&A team.
 
 The project covers the full analytics lifecycle: raw data ingestion, Power Query transformations, star schema modeling, DAX measures, dashboard design, and business storytelling.
 
